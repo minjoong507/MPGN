@@ -1,6 +1,6 @@
 Modal-specific Pseudo Query Generation for Video Corpus Moment Retrieval
 =====
-***
+
 ![model_overview](./imgs/MPGN.jpg)
 PyTorch Implementation of paper:
 
@@ -9,7 +9,7 @@ PyTorch Implementation of paper:
 [Minjoon Jung](https://minjoong507.github.io/), Seongho Choi, Joochan Kim, [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
 
 ## Citations
-***
+
 If our project is useful to your research, please consider citing our papers:
 ```
 @inproceedings{jung2022modal,
@@ -20,5 +20,5 @@ If our project is useful to your research, please consider citing our papers:
 }
 ```
 ## Acknowledgement
-***
+
 Our project follows the codes in [TVR](https://github.com/jayleicn/TVRetrieval).  We thank the authors for sharing their great work.

@@ -6,7 +6,7 @@ PyTorch Implementation of paper:
 
 [Modal-specific Pseudo Query Generation for Video Corpus Moment Retrieval.](https://arxiv.org/abs/2210.12617)
 
-[Minjoon Jung](https://minjoong507.github.io/), Seongho Choi, Joochan Kim, [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
+[Minjoon Jung](https://minjoong507.github.io/), Seongho Choi, [Joochan Kim](tikatoka.github.io), [Jin-Hwa Kim](http://wityworks.com/), [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)
 
 ## Getting started
 This project is implemented based on Pytorch with Anaconda.
